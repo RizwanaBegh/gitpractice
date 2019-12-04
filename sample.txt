@@ -1,5 +1,9 @@
 hi
 hello
+<<<<<<< HEAD
 new file updatei
 d
 i am from hyd
+=======
+new file updated
+>>>>>>> ca678d547a44465baf2ee7c973ab1e61243bfbb2
